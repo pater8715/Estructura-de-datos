@@ -1,0 +1,34 @@
+.gradient-custom {
+    background: linear-gradient(45deg, #0033cc 0%, #3399ff 100%);
+  }
+  
+  .background-login {
+    background-color: #f0f8ff; /* Un azul claro para el fondo del contenedor */
+  }
+  
+  .card {
+    background-color: #0033cc !important; /* Fondo azul oscuro para la tarjeta */
+  }
+  
+  .card-body {
+    padding: 2rem !important;
+  }
+  
+  .bg-light {
+    background-color: #e6f2ff !important; /* Fondo azul muy claro para el formulario */
+  }
+  
+  .text-primary {
+    color: #318af0; /* Azul oscuro para el texto principal */
+  }
+  
+  .text-dark {
+    color: #e9e0da; /* Azul marino para el texto de los campos del formulario */
+  }
+  
+  .btn-light {
+    background-color: #3399ff; /* Fondo azul claro para el botón */
+    border: none;
+    color: #fff; /* Color del texto del botón */
+  }
+  
